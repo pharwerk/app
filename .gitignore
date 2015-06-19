@@ -1,0 +1,5 @@
+# Pharwerk build project
+build/
+
+# IDE artifacts
+.idea
